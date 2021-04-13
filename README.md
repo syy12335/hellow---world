@@ -1,2 +1,2 @@
 # hellow---world
-just a repository
+print("hellow world")
